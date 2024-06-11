@@ -4,6 +4,7 @@ import './globals.css'
 import { ThemeProvider } from '@/components/ThemeProvider'
 import Navbar from '@/components/Navbar'
 import { cn } from '@/lib/utils'
+import SmoothScrolling from '@/components/SmoothScrolling'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -40,7 +41,9 @@ export default function RootLayout({
 			>
 				<ThemeProvider attribute='class' defaultTheme='system' enableSystem disableTransitionOnChange>
 					<Navbar />
-					<main className='flex-1'>{children}</main>
+					<main className=''>
+						<SmoothScrolling>{children}</SmoothScrolling>
+					</main>
 				</ThemeProvider>
 			</body>
 		</html>
