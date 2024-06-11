@@ -11,7 +11,7 @@ const Hero = () => {
 			<div className='absolute inset-0 overflow-x-hidden w-full z-0 zoom-effect'>
 				<Image src='/gym.png' alt='Siberian Tiger' className='dark:opacity-50 opacity-80 bg-transparent w-full' fill />
 			</div>
-			<div className='relative w-full h-full flex flex-col justify-evenly'>
+			<div className='relative w-full h-full flex flex-col justify-evenly translate-y-16'>
 				<h1 className='text-balance text-3xl md:text-6xl text-center text-white dark:text-[#942911] drop-shadow-lg dark:shadow-gray-500 font-serif translate-y-6'>
 					Tiger Club Kickboxing{' '}
 				</h1>
