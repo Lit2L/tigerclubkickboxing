@@ -19,7 +19,7 @@ const Hero = () => {
 				<div className='translate-y-12'>
 					<FlipWordsComponent />
 				</div>
-				<div className='flex flex-col items-center w-full justify-center gap-3'>
+				<div className='flex flex-col items-center w-full justify-center'>
 					<AnimatedShinyTextButton />
 				</div>
 			</div>

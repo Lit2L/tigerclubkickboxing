@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { Button } from './ui/button'
 import { Sheet, SheetContent, SheetTrigger } from './ui/sheet'
 import { ThemeToggleButton } from './ThemeToggleButton'
-import Logo from '../../public/TigerClubLogo.png'
+import Logo from '../../public/TigerLogo.png'
 import Image from 'next/image'
 
 const Navbar = () => {
@@ -13,7 +13,7 @@ const Navbar = () => {
 				<div className='container mx-auto flex h-16 items-center justify-between px-4 md:px-6 font-megrim'>
 					<Link href='#' className='flex items-center gap-2' prefetch={false}>
 						{/* <PawPrint className='h-6 w-6 text-primary-foreground dark:text-orange-400' /> */}
-						<Image src={Logo} alt='Tiger Club Kickboxing' width={32} height={32} />
+						<Image src={Logo} alt='Tiger Club Kickboxing' width={125} height={125} />
 						<span className='text-lg font-semibold dark:text-[#f7f7f7] text-primary-foreground'>
 							Tiger Club Kickboxing
 						</span>

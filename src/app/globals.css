@@ -33,10 +33,47 @@
 		--ring: 222.2 84% 4.9%;
 
 		--radius: 0.5rem;
+		--shades: #404040;
+		--tiger: #c76a00;
+		--antiwhite: #f1f2f6;
+		--sunglow: #ffcb47;
+		--sunglow-dark: #e6b63e;
+		--sunglow-light: #ffdb7b;
+		--sunglow-lighter: #fff1c4;
+		--sunglow-lightest: #fff9e6;
+		--sunglow-darkest: #b38e2d;
+		--sunglow-darker: #d9a93a;
+		--sunglow-dark: #e6b63e;
+		--ebony: #4a5043;
+		--ebony-dark: #3f4538;
+		--ebony-light: #5a5f52;
+		--ebony-lighter: #6b6f61;
+		--cadetgray: #8aa1b1;
+		--cadetgray-dark: #7f8f9e;
+		--cadetgray-light: #9cb4c2;
+		--lightblue: #9ac2c9;
+		--lightblue-dark: #8fb7be;
+		--lightblue-light: #a6ccd3;
+		--celadon: #b9d8c2;
+		--cambridgeblue: #94b9af;
+		--raisinblack: #2e2d2e;
+		--glaucous: #6b7fd7;
+		--frenchgray: #d3cdd7;
+		--frenchgray-dark: #c8c2cc;
+		--frenchgray-light: #ded8e2;
+		--frenchgray-lighter: #eae4ee;
+		--frenchgray-lightest: #f5eff9;
+		--frenchgray-darkest: #a39da7;
+		--frenchgray-darker: #b8b2bc;
+		--frenchgray-dark: #c8c2cc;
+
+		--nonphotoblue: #bcedf6;
+		--sienna: 11 79% 32%;
+		--brown: #a3320b;
 	}
 
 	.dark {
-		--background: 222.2 84% 4.9%;
+		--background: 252 7% 15%;
 		--foreground: 210 40% 98%;
 
 		--card: 222.2 84% 4.9%;

@@ -2,7 +2,7 @@ import React from 'react'
 import { FlipWords } from './ui/flip-words'
 
 export function FlipWordsComponent() {
-	const words = ['cool', 'new', 'now', 'You']
+	const words = ['Chill', 'Fierce', 'New', 'Now', 'You']
 
 	return (
 		<div className='h-[10rem] flex-col  flex justify-center items-center px-4'>
@@ -10,7 +10,7 @@ export function FlipWordsComponent() {
 			<div className='text-4xl mx-auto font-normal text-[#e6b63e] dark:text-[#ffcb47]'>
 				Be
 				<FlipWords words={words} /> <br />
-				simplicity
+				Simple
 			</div>
 		</div>
 	)

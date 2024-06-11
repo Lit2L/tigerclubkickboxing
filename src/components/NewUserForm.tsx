@@ -68,7 +68,7 @@ export default function NewUserForm() {
 	}
 
 	return (
-		<form className='' onSubmit={handleSubmit(onSubmit)}>
+		<form className='bg-' onSubmit={handleSubmit(onSubmit)}>
 			<Card className='bg-transparent'>
 				<CardHeader>
 					<CardTitle className='text-center '>Get Your 2-Day Pass for Free!</CardTitle>
