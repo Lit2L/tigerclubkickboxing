@@ -38,7 +38,7 @@ export const ThemeToggleButton: React.FC = () => {
 			{isDarkMode ? (
 				<IconButton
 					key='light-mode'
-					className='hover:text-blue-500 overflow-hidden text-orange-600  dark:text-dark-300 dark:hover:text-dark-200'
+					className='hover:text-yellow-500 overflow-hidden text-orange-600  dark:text-gray-300 dark:hover:text-[#eaf27c] transition-all duration-200 ease-linear '
 					onClick={toggleTheme}
 				>
 					<MdOutlineLightMode title='Light mode' size={24} />
@@ -46,7 +46,7 @@ export const ThemeToggleButton: React.FC = () => {
 			) : (
 				<IconButton
 					key='dark-mode'
-					className=' overflow-hidden text-blue-500 hover:text-blue-500 dark:text-dark-300 dark:hover:text-dark-200'
+					className=' overflow-hidden text-orange-100/50 bg-transparent rounded-full hover:text-[#2e7796] dark:text-dark-300 dark:hover:text-dark-200 ease-in-out'
 					onClick={toggleTheme}
 				>
 					<MdOutlineDarkMode title='Dark mode' size={24} />

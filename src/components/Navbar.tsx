@@ -87,7 +87,7 @@ const Navbar = () => {
 								>
 									Contact
 								</Link>
-								<Button className="w-full font-['Futura']">Join Now</Button>
+								<Button className='w-full font-[megrim] uppercase'>Join Now</Button>
 							</div>
 						</SheetContent>
 					</Sheet>

@@ -15,7 +15,7 @@ const Prices = () => {
 							<CardContent className='flex flex-col items-center justify-center space-y-4 p-6'>
 								<h3 className='text-2xl font-bold'>Basic</h3>
 								<p className='text-4xl font-bold'>$49</p>
-								<p className='text-gray-600 dark:text-gray-400'>per month</p>
+								<p className='text-gray-400 dark:text-gray-400'>per month</p>
 								<ul className='space-y-2 text-gray-600 dark:text-gray-400'>
 									<li>2 classes per week</li>
 									<li>Access to group classes</li>

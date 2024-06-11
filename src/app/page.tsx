@@ -7,7 +7,7 @@ import Image from 'next/image'
 
 export default function Home() {
 	return (
-		<main className='flex min-h-screen overflow-x-hidden flex-col w-full items-center justify-between'>
+		<main className='flex min-h-screen overflow-x-hidden flex-col w-full items-center justify-between mb-16'>
 			<Hero />
 			<About />
 			<Schedule />

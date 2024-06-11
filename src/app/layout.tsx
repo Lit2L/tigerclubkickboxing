@@ -5,6 +5,7 @@ import { ThemeProvider } from '@/components/ThemeProvider'
 import Navbar from '@/components/Navbar'
 import { cn } from '@/lib/utils'
 import SmoothScrolling from '@/components/SmoothScrolling'
+import Footer from '@/components/templates/Footer'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -44,6 +45,7 @@ export default function RootLayout({
 					<main className=''>
 						<SmoothScrolling>{children}</SmoothScrolling>
 					</main>
+					<Footer />
 				</ThemeProvider>
 			</body>
 		</html>
