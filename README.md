@@ -34,3 +34,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Whatever your reason for wanting to kickbox, turn your body into a vehicle that is capable of doing what you want it to do and when you want it to. You have one vessle that needs to stay sharp. Whatver you do in your 20's will determine how you live your 30's and that will determine how you live your 40's and so on. '
+We dont like bullies, we believe in sharpening and strengthening the mind, body and spirit so that you trust yourself to do the right thing.
